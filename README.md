@@ -1,3 +1,5 @@
+Here’s a project demonstrating the use of a web API in a React Native application. This project features an animated loading screen, a FlatList displaying products fetched from a web API, and a detailed view of each product when clicked.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -71,6 +73,14 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
+
+#screenshots
+------------------------
+
+
+https://github.com/akgullberk/StoreApi/assets/108866525/2854f51e-d8b7-4f37-a700-1fcfcdeada5d
+
+
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
